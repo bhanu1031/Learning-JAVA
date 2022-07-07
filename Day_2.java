@@ -21,6 +21,8 @@ public class Day_2 {
         //sc.nextLine() will print multiple words
         String name2= sc.nextLine();
         System.out.println(name2);
+        //sc.nextInt() used for storing integers
+        //sc.nextFloat() used for stroing decimal values
 
     }
 }
