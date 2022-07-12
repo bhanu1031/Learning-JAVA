@@ -15,7 +15,7 @@ public class patternprob_case2 {
                 if( i==1 || j==1 || i==n || j==m){
                     System.out.print("*");
                 } else{
-                    System.out.println(" ");
+                    System.out.print(" ");
                 }
             }
             System.out.println();
