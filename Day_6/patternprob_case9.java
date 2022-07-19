@@ -2,6 +2,11 @@ package Day_6;
 
 public class patternprob_case9 {
     public static void main(String args[]) {
+        /* Problem: 1
+                    01
+                    101
+                    0101
+                    10101*/
         int n=5;
 
         //outer loop
