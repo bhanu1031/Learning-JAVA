@@ -17,7 +17,7 @@ public class for_loop {
         }
         System.out.println(sum);
 
-        //To print table of 2
+        //To print table of 3
         int m=3;
         for (int x=m; x<=m*10; x=x+m){
             System.out.println(x);
