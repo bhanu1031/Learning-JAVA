@@ -11,7 +11,7 @@ public class pracQues_5 {
     }
     public static void main(String args[]) {
         Scanner scan= new Scanner(System.in);
-        System.out.print("Enter your age: ");
+        System.out.print("Enter your age");
         int age= scan.nextInt();
         System.out.println("Status for voting: "+voteEligible(age));
     }
