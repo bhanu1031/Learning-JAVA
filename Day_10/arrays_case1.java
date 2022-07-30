@@ -8,8 +8,8 @@ public class arrays_case1 {
         marks[2]= 96; //chem
         System.out.println(marks[1]);
         //or we can also use for loop too print all elements.
-        for(int i=0; i<marks; i++){
-            System.out.println(i)
+        for(int i=0; i<3; i++){
+            System.out.println(marks[i]);
             }
     }
 }
