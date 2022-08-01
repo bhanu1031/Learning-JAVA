@@ -7,7 +7,7 @@ public class arrays_case2 {
         int size= sc.nextInt();
         int[] marks= new int[size];
         for(int i=0; i<size; i++){
-            System.out.println(size);
+            System.out.println(marks[i]);
         }
     }
 }
