@@ -10,7 +10,7 @@ public class linear_search {
         
         //Input for array
         System.out.println("Array Input:");
-        for(int i=0; i<marks.length; i++){
+        for(int i=0; i<marks.length; i++){        //we can either marks.length or size variable
             marks[i]= sc.nextInt();
         }
 
