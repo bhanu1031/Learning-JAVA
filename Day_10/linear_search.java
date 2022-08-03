@@ -16,7 +16,7 @@ public class linear_search {
 
         int x= sc.nextInt();
 
-        //Output
+        //Outpuyu
         System.out.println("Output");
         for(int i=0; i<marks.length; i++){
             if(marks[i]==x){
